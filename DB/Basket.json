@@ -16,10 +16,6 @@
   "availableSeats": 16,
   "capacity": 30,
   "insurance": true,
-  "options": [
-    "راهنمای تور",
-    "ساحل اختصاصی",
-    "صبحانه، نهار و شام"
-  ],
+  "options": ["راهنمای تور", "ساحل اختصاصی", "صبحانه، نهار و شام"],
   "image": "http://localhost:6500/static/images/kurdestanTour.png"
 }
