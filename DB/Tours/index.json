@@ -14,7 +14,7 @@
     "title": "تور کردستان",
     "fleetVehicle": "bus",
     "price": 105000,
-    "availableSeats": 16,
+    "availableSeats": 15,
     "capacity": 30,
     "insurance": true,
     "options": [
@@ -39,7 +39,7 @@
     "title": "تور مادرید",
     "fleetVehicle": "ship",
     "price": 240000,
-    "availableSeats": 11,
+    "availableSeats": 10,
     "capacity": 150,
     "insurance": false,
     "options": [
@@ -87,7 +87,7 @@
     "title": "هولر",
     "fleetVehicle": "airplane",
     "price": 105000,
-    "availableSeats": 18,
+    "availableSeats": 17,
     "capacity": 30,
     "insurance": false,
     "options": [
@@ -111,7 +111,7 @@
     "title": "تور مازندران",
     "fleetVehicle": "SUV",
     "price": 185000,
-    "availableSeats": 298,
+    "availableSeats": 297,
     "capacity": 350,
     "insurance": true,
     "options": [
@@ -159,7 +159,7 @@
     "title": "تور ایتالیا",
     "fleetVehicle": "airplane",
     "price": 18000,
-    "availableSeats": 15,
+    "availableSeats": 14,
     "capacity": 200,
     "insurance": true,
     "options": [
@@ -167,5 +167,29 @@
       "هفل پنج ستاره"
     ],
     "image": "/static/images/italyTour.png"
+  },
+  {
+    "id": "f67890ab4-cdsef-12324-5678-90asbcdef1234",
+    "origin": {
+      "id": "1",
+      "name": "Tehran"
+    },
+    "destination": {
+      "id": "8",
+      "name": "Gilan"
+    },
+    "startDate": "2025-04-20T00:00:00.000Z",
+    "endDate": "2025-04-26T00:00:00.000Z",
+    "title": "تور آفرود",
+    "fleetVehicle": "SUV",
+    "price": 35000,
+    "availableSeats": 22,
+    "capacity": 250,
+    "insurance": true,
+    "options": [
+      "نهار و صبحانه",
+      "هفل پنج ستاره"
+    ],
+    "image": "/static/images/offroadTour.png"
   }
 ]

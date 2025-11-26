@@ -2,7 +2,20 @@
   {
     "id": "74d24d4a-1f5e-461d-8156-9721889109ea",
     "mobile": "09124657893",
-    "otpExpires": 1761714027833,
-    "otpCode": "122200"
+    "otpExpires": 1763912180055,
+    "otpCode": "218799",
+    "email": "test7@gmail.com",
+    "birthDate": "۱۳۷۷/۰۵/۱۹",
+    "gender": "male",
+    "nationalCode": 6710051451,
+    "fullName": "مهدی موسوی نژاد",
+    "shaba_code": "1234567891234567891234567891",
+    "debitCard_code": "1234567891234567",
+    "accountIdentifier": "987654321",
+    "payment": {
+      "shaba_code": "1234567891234567891234567891",
+      "debitCard_code": "1234567891234567",
+      "accountIdentifier": "987654321"
+    }
   }
 ]
